@@ -21,4 +21,14 @@ Fabric shares computing capacity across the entire workspace. A heavy, unoptimiz
 * `01_bronze_ingestion.ipynb` — Raw data ingestion with string schema & lineage tags
 * `02_silver_cleansing.ipynb` — Deduplication, null-safe quality rules & date parsing
 * `03_gold_aggregation.ipynb` — Star schema creation, ZORDER optimization & analysis
-* `/screenshots` — Step-by-step execution proof
+
+### Execution Proofs
+
+**1. Bronze Layer Ingestion**
+![Bronze Ingestion](screenshots/01_bronze_ingestion.png)
+
+**2. Silver Layer Cleansing & Quality Checks**
+![Silver Cleansing](screenshots/02_silver_cleansing.png)
+
+**3. Gold Layer Star Schema & Optimization**
+![Gold Aggregation](screenshots/03_gold_aggregation.png)
