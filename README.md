@@ -32,3 +32,7 @@ Fabric shares computing capacity across the entire workspace. A heavy, unoptimiz
 
 **3. Gold Layer Star Schema & Optimization**
 ![Gold Aggregation](screenshots/03_gold_aggregation.png)
+
+**4. Gold Layer Business Answers**
+![Business Answers 1](screenshots/03_gold_business_answers_1.png)
+![Business Answers 2](screenshots/03_gold_business_answers_1.png)
